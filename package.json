@@ -2,7 +2,7 @@
   "name": "personal-website-api",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Strapi CMS for darrenmatis.com",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -25,7 +25,7 @@
     "strapi-utils": "3.3.4"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Darren Matis-Mei"
   },
   "strapi": {
     "uuid": "4f9f89d4-7e87-4522-9b19-fb9955a010a8"
